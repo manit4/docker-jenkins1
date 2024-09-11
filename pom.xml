@@ -68,6 +68,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>devops-inte</finalName>
 	</build>
 
 </project>
